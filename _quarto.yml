@@ -8,6 +8,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    right: 
+      - icon: github
+        href: https://github.com/TimRuel
+        aria-label: Github
 
 format:
   html:
