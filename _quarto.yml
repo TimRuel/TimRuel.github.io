@@ -12,6 +12,9 @@ website:
       - icon: github
         href: https://github.com/TimRuel
         aria-label: Github
+      - icon: linkedin
+        href: www.linkedin.com/in/timothy-ruel-17b45a14b
+        aria-label: LinkedIn
 
 format:
   html:
