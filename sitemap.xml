@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/TimRuel/TimRuel.github.io/index.html</loc>
-    <lastmod>2023-01-23T23:38:13.400Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/TimRuel/TimRuel.github.io/contact.html</loc>
-    <lastmod>2023-01-23T23:38:15.640Z</lastmod>
+    <lastmod>2023-01-23T23:44:30.172Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/TimRuel/TimRuel.github.io/about.html</loc>
-    <lastmod>2023-01-23T23:38:16.056Z</lastmod>
+    <lastmod>2023-01-23T23:44:31.192Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/TimRuel/TimRuel.github.io/projects.html</loc>
-    <lastmod>2023-01-23T23:38:16.456Z</lastmod>
+    <lastmod>2023-01-23T23:44:31.524Z</lastmod>
   </url>
 </urlset>
