@@ -9,15 +9,11 @@ website:
       - text: "About"
         file: about.qmd
       - sidebar:projects
-      - sidebar:resume
       - sidebar:contact
   
   sidebar: 
     - id: projects
       title: "Projects"
-    
-    - id: resume
-      title: "Resume"
     
     - id: contact
       title: "Contact"
