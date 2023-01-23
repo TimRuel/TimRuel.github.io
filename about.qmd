@@ -1,9 +1,15 @@
 ---
-title: "About"
+title: "Tim Ruel"
+about: 
+  template: solana
+  image: profile.jpg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/TimRuel
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/tim-ruel
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Tim Ruel is a 4th year doctoral candidate in statistics at Northwestern University.

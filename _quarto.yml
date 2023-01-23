@@ -3,24 +3,30 @@ project:
 
 website:
   navbar:
+    search: true
+    title: false
     left:
-      - icon: house-door-fill
-        href: about.qmd
-      - href: about.qmd
-        text: About
-      - href: projects.qmd
-        text: Projects
-    right: 
-      - icon: github
-        href: https://github.com/TimRuel
-        aria-label: Github
-      - icon: linkedin
-        href: www.linkedin.com/in/timothy-ruel-17b45a14b
-        aria-label: LinkedIn
+      - text: "About"
+        file: about.qmd
+      - sidebar:projects
+      - sidebar:resume
+      - sidebar:contact
+  
+  sidebar: 
+    - id: projects
+      title: "Projects"
+    
+    - id: resume
+      title: "Resume"
+    
+    - id: contact
+      title: "Contact"
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: darkly
+      light: flatly
     css: styles.css
     toc: true
 
