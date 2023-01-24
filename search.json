@@ -1,9 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Tim Ruel",
     "section": "",
-    "text": "Tim Ruel is a 4th year doctoral candidate in statistics at Northwestern University."
+    "text": "Tim Ruel is a 4th year doctoral candidate in statistics at Northwestern University.\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris.\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris.\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris.\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum gravida mauris."
+  },
+  {
+    "objectID": "index.html#sec-contact",
+    "href": "index.html#sec-contact",
+    "title": "Tim Ruel",
+    "section": "Contact",
+    "text": "Contact\nquick link to Section 1\nalternatively 1\nContact"
   }
 ]
