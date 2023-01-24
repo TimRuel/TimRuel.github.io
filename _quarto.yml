@@ -8,15 +8,6 @@ website:
     left:
       - text: "About"
         file: about.qmd
-      - sidebar:projects
-      - sidebar:contact
-  
-  sidebar: 
-    - id: projects
-      title: "Projects"
-    
-    - id: contact
-      title: "Contact"
 
 format:
   html:
