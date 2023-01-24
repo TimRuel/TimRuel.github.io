@@ -1,1 +1,8 @@
 /* css styles */
+.rounded {
+  border-radius: 1rem !important;
+}
+
+.bi {
+  font-size: 1.5em;  
+}

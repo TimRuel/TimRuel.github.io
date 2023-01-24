@@ -1,0 +1,48 @@
+---
+title: "Tim Ruel"
+about: 
+  template: solana
+  image: profile.jpg
+  image-shape: rounded
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/TimRuel
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/tim-ruel
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+Tim Ruel is a 4th year doctoral candidate in statistics at Northwestern
+University.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,
+vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum
+gravida mauris.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,
+vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum
+gravida mauris.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,
+vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum
+gravida mauris. Lorem ipsum dolor sit amet, consectetuer adipiscing
+elit. Ut purus elit, vestibulum ut, placerat ac, adipiscing vitae,
+felis. Curabitur dictum gravida mauris.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,
+vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum
+gravida mauris.
+
+## Contact {#sec-contact}
+
+quick link to @sec-contact
+
+alternatively [-@sec-contact]
+
+[Contact](index.qmd#sec-contact)
+
+
