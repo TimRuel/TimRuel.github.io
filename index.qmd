@@ -1,15 +1,15 @@
 ---
-title: "Tim Ruel"
+title: "Timothy B. Ruel"
+subtitle: "PhD Candidate <br> Department of Statistics and Data Science, <br> Northwestern University"
+
 about: 
   template: solana
   image: profile.jpg
   image-shape: rounded
   links: 
     - icon: github
-      text: Github
       href: https://github.com/TimRuel
     - icon: linkedin
-      text: LinkedIn
       href: https://linkedin.com/in/tim-ruel
 editor: 
   markdown: 
