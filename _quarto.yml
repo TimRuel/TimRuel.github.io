@@ -10,10 +10,14 @@ website:
       - icon: house-door-fill
         text: " "
         file: index.qmd 
-      - text: "About"
+      - text: "Home"
         file: index.qmd
+      - text: "About"
+        file: about.qmd
+      - text: "Projects"
+        file: projects.qmd 
       - text: "Contact"
-        href: contact.qmd
+        file: contact.qmd
       - text: "CV"
         href: cv.pdf
 

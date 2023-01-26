@@ -1,6 +1,19 @@
 /* css styles */
 .subtitle {
   color: cornflowerblue;
+  width: 500px;
+}
+
+p {
+  width 700px;
+}
+
+div.quarto-about-trestles {
+  width: 1000px;
+}
+
+element.style {
+  width: 15em;
 }
 
 .rounded {
@@ -17,28 +30,10 @@
   justify-content: center;   /* center ul container horizontally (optional) */
 }
 
-div.quarto-about-solana .about-entity .about-link {
-  padding: 0em 0em;
-  border: none;
-  font-size: 1.5em;  
-}
-
-div.quarto-about-solana .about-entity .about-link i.bi{
-  margin-right: 0em;
-  margin-top: 0em;
-}
 
 
-#title-block-header {
-  margin-block-end: 1rem;
-  position: absolute;
-  /*margin-top: -1px;*/
-  right: 720px;
-  bottom: 300px;
-  width: 500px;
-  height: 500px;
-  text-align: center;
-}
+
+
     
 
 
