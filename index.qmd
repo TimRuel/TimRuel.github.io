@@ -37,12 +37,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,
 vestibulum ut, placerat ac, adipiscing vitae, felis. Curabitur dictum
 gravida mauris.
 
-## Contact {#sec-contact}
 
-quick link to @sec-contact
-
-alternatively [-@sec-contact]
-
-[Contact](index.qmd#sec-contact)
 
 
