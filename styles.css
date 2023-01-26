@@ -1,6 +1,6 @@
 /* css styles */
 .subtitle {
-  color: grey;
+  color: cornflowerblue;
 }
 
 .rounded {
@@ -27,4 +27,23 @@ div.quarto-about-solana .about-entity .about-link i.bi{
   margin-right: 0em;
   margin-top: 0em;
 }
+
+
+#title-block-header {
+  margin-block-end: 1rem;
+  position: absolute;
+  /*margin-top: -1px;*/
+  right: 720px;
+  bottom: 300px;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+}
+    
+
+
+
+
+
+
 
