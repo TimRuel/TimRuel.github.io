@@ -16,6 +16,8 @@ editor:
     wrap: 72
 ---
 
+## About Me
+
 Tim Ruel is a 4th year doctoral candidate in statistics at Northwestern
 University.
 
