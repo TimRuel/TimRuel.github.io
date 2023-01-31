@@ -19,7 +19,7 @@ website:
       - text: "Contact"
         file: contact.qmd
       - text: "Resume"
-        href: resume.pdf
+        file: resume.pdf
 
 format:
   html:
