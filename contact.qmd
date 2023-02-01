@@ -7,6 +7,10 @@ library(tidyverse)
 library(leaflet)
 ```
 
+
+{{< fa envelope size=2x >}}
+
+
 ```{r echo = FALSE}
 leaflet() %>% 
   addTiles() %>% 
