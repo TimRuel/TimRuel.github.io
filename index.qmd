@@ -21,6 +21,7 @@ editor:
 I am a fourth year PhD candidate in statistics at Northwestern
 University.
 
+(This site is still a work in progress)
 
 
 

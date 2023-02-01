@@ -10,8 +10,6 @@ website:
       - icon: house-door-fill
         text: " "
         file: index.qmd 
-      - text: "Home"
-        file: index.qmd
       - text: "About"
         file: about.qmd
       - text: "Projects"

@@ -2,3 +2,14 @@
 title: "Contact"
 ---
 
+```{r include = FALSE}
+library(tidyverse)
+library(leaflet)
+```
+
+```{r echo = FALSE}
+leaflet() %>% 
+  addTiles() %>% 
+  addMarkers(lng = -87.670950, lat = 41.979850)
+```
+
