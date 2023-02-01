@@ -7,7 +7,6 @@ library(tidyverse)
 library(leaflet)
 ```
 
-
 ```{r echo = FALSE}
 leaflet() %>% 
   addTiles() %>% 
