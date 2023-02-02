@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Timothy B. Ruel",
     "section": "",
-    "text": "I am a fourth year PhD candidate in statistics at Northwestern University."
+    "text": "I am a fourth year PhD candidate in statistics at Northwestern University.\n(This site is still a work in progress)"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "timothyruel2024@u.northwestern.edu\n 1630 West Balmoral Avenue, Apt 2B, Chicago, IL 60640"
   },
   {
     "objectID": "about.html#education",
@@ -26,5 +33,12 @@
     "title": "About Me",
     "section": "Teaching",
     "text": "Teaching"
+  },
+  {
+    "objectID": "projects.html#visualization-of-northwestern-university-faculty-retirement-benefits-loss-during-covid-19",
+    "href": "projects.html#visualization-of-northwestern-university-faculty-retirement-benefits-loss-during-covid-19",
+    "title": "Projects",
+    "section": "Visualization of Northwestern University Faculty Retirement Benefits Loss during COVID-19",
+    "text": "Visualization of Northwestern University Faculty Retirement Benefits Loss during COVID-19"
   }
 ]
