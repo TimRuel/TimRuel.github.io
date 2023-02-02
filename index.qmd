@@ -1,6 +1,6 @@
 ---
 title: "Timothy B. Ruel"
-subtitle: "PhD Candidate <br> Department of Statistics and Data Science, <br> Northwestern University"
+subtitle: "Ph.D. Candidate<br> Department of Statistics and Data Science,<br> Northwestern University"
 
 about: 
   template: trestles
@@ -18,19 +18,24 @@ editor:
     wrap: 72
 ---
 
-I am a fourth year PhD candidate in the [Department of Statistics and Data Science](https://statistics.northwestern.edu/) at [Northwestern
+## About Me
+
+I am a fourth year Ph.D. candidate in the [Department of Statistics and Data Science](https://statistics.northwestern.edu/) at [Northwestern
 University](https://www.northwestern.edu/). My research involves using Bayesian ideas such as Markov chain Monte Carlo to develop new methods and applications for approximating pseudolikelihood functions. 
 
-\
+## Interests
 
-\
+* Bayesian statistics
+* Likelihood analysis
+* Data science
+* Machine learning
 
-<div class="row">
-  <div class="column"></div>
-  <font size="6">**Interests**</font>
-  <div class="column"></div>
-  <font size="6">**Education**</font>
-</div>
+
+## Education
+
+<ul class="ul-edu fa-ul"> <li><i class="fa-li fa fa-graduation-cap"></i> <div class="description"> <p class="course"> MS in Statistics, 2022 </p><p class="institution">Northwestern University</p></div></li><li><i class="fa-li fa fa-graduation-cap"></i><div class="description"><p class="course">BS in Applied Mathematics, Statistics, 2018</p><p class="institution">University of Illinois at Urbana-Champaign</p></div></li></ul>
+
+{{< fa graduation >}}
 
 
 

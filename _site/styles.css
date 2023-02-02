@@ -1,9 +1,13 @@
 /* css styles */
 html, body { height: 100%; }
 
-.subtitle {
-  color: cornflowerblue;
+.subtitle{
+  color:gray;
   width: 500px;
+}
+
+.subtitle::first-line{
+  color:cornflowerblue;
 }
 
 p {
@@ -58,6 +62,22 @@ a {
   flex: 50%;
 }
 
+div.description {
+  color: gray;
+  line-height: 0.5em;
+  padding: 10px;
+  font-size: 13pt;
+}
+
+div.description::first-line {
+  color:cornflowerblue;
+  font-size: 16pt;
+}
+
+.fa-li.fa.fa-graduation-cap {
+  font-size: 150%;
+  padding: 7px 0px;
+}
 
     
 
