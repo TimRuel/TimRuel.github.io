@@ -18,10 +18,23 @@ editor:
     wrap: 72
 ---
 
-I am a fourth year PhD candidate in statistics at Northwestern
-University.
+I am a fourth year PhD candidate in the [Department of Statistics and Data Science](https://statistics.northwestern.edu/) at [Northwestern
+University](https://www.northwestern.edu/). My research involves using Bayesian ideas such as Markov chain Monte Carlo to develop new methods and applications for approximating pseudolikelihood functions. 
 
-(This site is still a work in progress)
+\
+
+\
+
+<div class="row">
+  <div class="column"></div>
+  <font size="6">**Interests**</font>
+  <div class="column"></div>
+  <font size="6">**Education**</font>
+</div>
+
+
+
+
 
 
 

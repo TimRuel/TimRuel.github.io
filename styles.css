@@ -1,4 +1,6 @@
 /* css styles */
+html, body { height: 100%; }
+
 .subtitle {
   color: cornflowerblue;
   width: 500px;
@@ -8,8 +10,15 @@ p {
   width 700px;
 }
 
+#quarto-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 div.quarto-about-trestles {
-  width: 1000px;
+  position: relative;
+  width: 1300px;
 }
 
 element.style {
@@ -41,8 +50,13 @@ a {
   text-decoration: underline;
 }
 
+.row {
+  display: flex;
+}
 
-
+.column {
+  flex: 50%;
+}
 
 
     
