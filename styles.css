@@ -30,6 +30,17 @@ element.style {
   justify-content: center;   /* center ul container horizontally (optional) */
 }
 
+.fa-2x {
+  font-size: 2em;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+a {
+  color: #4887c6;
+  text-decoration: underline;
+}
+
 
 
 

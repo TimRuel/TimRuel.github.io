@@ -8,8 +8,7 @@ library(leaflet)
 ```
 
 
-{{< fa envelope size=2x >}}
-
+{{< fa envelope size=2x >}} <font size="5.5"><a href="mailto:timothyruel2024@u.northwestern.edu">timothyruel2024@u.northwestern.edu</a></font>
 
 ```{r echo = FALSE}
 leaflet() %>% 
