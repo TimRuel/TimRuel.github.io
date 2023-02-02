@@ -10,6 +10,8 @@ library(leaflet)
 
 {{< fa envelope size=2x >}} <font size="5.5"><a href="mailto:timothyruel2024@u.northwestern.edu">timothyruel2024@u.northwestern.edu</a></font>
 
+{{< fa location-dot size=2x >}} <font size="5.5">1630 West Balmoral Avenue, Apt 2B, Chicago, IL 60640 </font>
+
 ```{r echo = FALSE}
 leaflet() %>% 
   addTiles() %>% 
