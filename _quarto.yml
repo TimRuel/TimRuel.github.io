@@ -13,7 +13,7 @@ website:
       - text: "Contact"
         file: contact.qmd
       - text: "Resume"
-        file: resume.pdf
+        file: resume2.pdf
 
 format:
   html:
