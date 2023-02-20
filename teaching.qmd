@@ -3,6 +3,8 @@ format: html
 toc: false
 ---
 
+# Teaching Experience
+
 Since beginning my Ph.D. program, I have assisted with teaching nine courses in the Department of Statistics and Data Science at Northwestern University. 
 
 During this time, my responsibilities have included:
