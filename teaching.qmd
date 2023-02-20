@@ -1,4 +1,62 @@
 ---
-title: "Under Construction"
+format: html
+toc: false
 ---
+
+Since beginning my Ph.D. program, I have assisted with teaching nine courses in the Department of Statistics and Data Science at Northwestern University. 
+
+During this time, my responsibilities have included:
+
+- Holding office hours 
+- Leading discussion sections
+- Proctoring exams
+- Grading homework assignments, labs, and exams 
+
+I am currently a teaching assistant for *STAT 301-2 Data Science II with R*.
+
+## Timeline of Courses
+
+```{r echo = FALSE}
+df <- data.frame(
+  
+  quarter = c("Winter 2023",
+              "Fall 2022",
+              "Spring 2022",
+              "Winter 2022",
+              "Fall 2021",
+              "Spring 2021",
+              "Winter 2021",
+              "Fall 2020"),
+  
+  class1 = c("STAT 301-2 Data Science II with R",
+             "STAT 301-1 Data Science I with R",
+             "STAT 353-0 Advanced Regression",
+             "STAT 328-0 Causal Inference",
+             "STAT 210-0 Introduction to Probability & Statistics",
+             "STAT 210-0 Introduction to Probability & Statistics",
+             "STAT 320-2 Statistical Theory & Methods II",
+             "STAT 210-0 Introduction to Probability & Statistics"),
+  
+  class2 = c("",
+             "",
+             "",
+             "STAT 420-2 Introduction to Statistical Theory & Methodology II",
+             "",
+             "",
+             "",
+             "")
+)
+
+dsc_size = "23px"
+
+cronologia::create_tml_2(df = df,
+                         smr = "quarter",
+                         smr_bgcol = "#4E2A84",
+                         dsc = "class1",
+                         dsc2 = "class2",
+                         dsc_size = dsc_size,
+                         dsc2_size = dsc_size,
+                         open = TRUE)
+```
+
 
