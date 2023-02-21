@@ -1,4 +1,8 @@
 ---
-title: "Under Construction"
+format: html
+toc: false
 ---
 
+# The 'generalizeR' R package
+
+The 'generalizeR' is an R package implementation of the webtool [thegeneralizer.org](https://www.thegeneralizer.org/).
