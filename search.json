@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "The ‘generalizeR’ R package\nThe ‘generalizeR’ is an R package implementation of the webtool thegeneralizer.org."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Timothy B. Ruel",
