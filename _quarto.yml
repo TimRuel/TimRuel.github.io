@@ -15,7 +15,7 @@ website:
       - text: "Contact"
         file: contact.qmd
       - text: "Resume"
-        file: resume2.pdf
+        file: resume3.pdf
 
 format:
   html:
