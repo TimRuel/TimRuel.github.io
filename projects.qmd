@@ -3,6 +3,42 @@ format: html
 toc: false
 ---
 
+:::: {.columns}
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
 # The 'generalizeR' R package
 
-The 'generalizeR' is an R package implementation of the webtool [thegeneralizer.org](https://www.thegeneralizer.org/).
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+# The 'generalizeR' R package
+:::
+
+::: {.column width="20%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+
+&nbsp;
+
+The 'generalizeR' is an R package implementation of the webtool [thegeneralizer.org](https://www.thegeneralizer.org/). Its purpose is to guide primary and secondary education researchers (K-12) through the process of (1) designing a sample recruitment plan with generalization in mind and (2) reporting where the results of a study may (or may not) generalize well.
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::::
+
+
+
