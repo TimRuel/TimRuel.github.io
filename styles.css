@@ -79,6 +79,9 @@ div.description::first-line {
   padding: 7px 0px;
 }
 
+h2.anchored {
+  color: cornflowerblue;
+}
     
 
 
