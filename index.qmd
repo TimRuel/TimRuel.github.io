@@ -21,8 +21,9 @@ editor:
 
 ## About Me
 
-I am a fifth year Ph.D. candidate in the [Department of Statistics and Data Science](https://statistics.northwestern.edu/) at [Northwestern
-University](https://www.northwestern.edu/). My research involves developing a novel algorithm for the numerical approximation of integrated likelihood functions as a means of eliminating nuisance parameters from a statistical model.
+Inquisitive data scientist interested in using my statistical expertise to build models, make predictions, and solve real-world problems with data. Experienced in using R and Python for data wrangling and machine learning.
+
+Currently I am a fifth year PhD candidate in the Department of Statistics and Data Science at Northwestern University. My research involves developing a novel algorithm for the numerical approximation of integrated likelihood functions as a means of eliminating nuisance parameters from a statistical model.
 
 ## Skills
 
