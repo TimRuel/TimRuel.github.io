@@ -19,11 +19,11 @@ website:
 
 format:
   html:
-    anchor-sections: true
-    smooth-scroll: true
+    anchor-sections: false
+    smooth-scroll: false
     theme:
       dark: darkly
       light: flatly
     css: styles.css
-    toc: true
+    toc: false
     
