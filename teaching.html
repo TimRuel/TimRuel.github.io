@@ -32,7 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -67,7 +66,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<style>html{ scroll-behavior: smooth; }</style>
 
 
 <link rel="stylesheet" href="styles.css">
@@ -124,7 +122,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="teaching-experience" class="level1">
 <h1>Teaching Experience</h1>
 <section id="courses-assisted" class="level2">
-<h2 class="anchored" data-anchor-id="courses-assisted">Courses Assisted</h2>
+<h2 data-anchor-id="courses-assisted">Courses Assisted</h2>
 <ul>
 <li>STAT 301-3 Data Science III with R (Spring 2023)</li>
 <li>STAT 301-2 Data Science II with R (Winter 2023)</li>
@@ -137,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="responsibilities" class="level2">
-<h2 class="anchored" data-anchor-id="responsibilities">Responsibilities</h2>
+<h2 data-anchor-id="responsibilities">Responsibilities</h2>
 <ul>
 <li>Leading discussion sections</li>
 <li>Creating solution manuals</li>
@@ -315,13 +313,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -687,5 +678,4 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
