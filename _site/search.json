@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Timothy B. Ruel",
     "section": "",
-    "text": "I am a fifth year Ph.D. candidate in the Department of Statistics and Data Science at Northwestern University. My research involves using Bayesian ideas such as Markov chain Monte Carlo to develop new methods and applications for approximating pseudolikelihood functions."
+    "text": "Enthusiastic data scientist with a passion for leveraging statistical expertise to construct models, formulate predictions, and address real-world challenges through the power of data. Proficient in utilizing R and Python for data wrangling and implementing machine learning techniques.\nI am currently in my fifth year as a Ph.D. candidate in the Department of Statistics and Data Science at Northwestern University. My research focuses on developing a novel algorithm for the numerical approximation of integrated likelihood functions. This innovative approach aims to eliminate nuisance parameters from statistical models, providing scientific researchers with a tool to facilitate the estimation of the parameters of interest in their studies."
   },
   {
     "objectID": "index.html#contact",
@@ -81,7 +81,7 @@
     "href": "index.html#interests",
     "title": "Timothy B. Ruel",
     "section": "Interests",
-    "text": "Interests\n\nBayesian statistics\nLikelihood analysis\nData science\nMachine learning"
+    "text": "Interests\n\nData science\nMachine learning\nBayesian statistics\nLikelihood analysis\nData visualization"
   },
   {
     "objectID": "index.html#education",
@@ -144,6 +144,6 @@
     "href": "index.html#about-me",
     "title": "Timothy B. Ruel",
     "section": "",
-    "text": "I am a fifth year Ph.D. candidate in the Department of Statistics and Data Science at Northwestern University. My research involves using Bayesian ideas such as Markov chain Monte Carlo to develop new methods and applications for approximating pseudolikelihood functions."
+    "text": "Enthusiastic data scientist with a passion for leveraging statistical expertise to construct models, formulate predictions, and address real-world challenges through the power of data. Proficient in utilizing R and Python for data wrangling and implementing machine learning techniques.\nI am currently in my fifth year as a Ph.D. candidate in the Department of Statistics and Data Science at Northwestern University. My research focuses on developing a novel algorithm for the numerical approximation of integrated likelihood functions. This innovative approach aims to eliminate nuisance parameters from statistical models, providing scientific researchers with a tool to facilitate the estimation of the parameters of interest in their studies."
   }
 ]
