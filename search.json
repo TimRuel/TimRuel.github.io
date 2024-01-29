@@ -25,21 +25,21 @@
     "href": "index.html",
     "title": "Timothy B. Ruel",
     "section": "",
-    "text": "Inquisitive data scientist interested in using my statistical expertise to build models, make predictions, and solve real-world problems with data. Experienced in using R and Python for data wrangling and machine learning.\nCurrently I am a fifth year PhD candidate in the Department of Statistics and Data Science at Northwestern University. My research involves developing a novel algorithm for the numerical approximation of integrated likelihood functions as a means of eliminating nuisance parameters from a statistical model."
+    "text": "Enthusiastic data scientist with a passion for leveraging statistical expertise to construct models, formulate predictions, and address real-world challenges through the power of data. Proficient in utilizing R and Python for data wrangling and implementing machine learning techniques.\nI am currently in my fifth year as a Ph.D. candidate in the Department of Statistics and Data Science at Northwestern University. My research focuses on developing a novel algorithm for the numerical approximation of integrated likelihood functions. This innovative approach aims to eliminate nuisance parameters from statistical models, providing scientific researchers with a tool to facilitate the estimation of the parameters of interest in their studies."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Timothy B. Ruel",
     "section": "",
-    "text": "Inquisitive data scientist interested in using my statistical expertise to build models, make predictions, and solve real-world problems with data. Experienced in using R and Python for data wrangling and machine learning.\nCurrently I am a fifth year PhD candidate in the Department of Statistics and Data Science at Northwestern University. My research involves developing a novel algorithm for the numerical approximation of integrated likelihood functions as a means of eliminating nuisance parameters from a statistical model."
+    "text": "Enthusiastic data scientist with a passion for leveraging statistical expertise to construct models, formulate predictions, and address real-world challenges through the power of data. Proficient in utilizing R and Python for data wrangling and implementing machine learning techniques.\nI am currently in my fifth year as a Ph.D. candidate in the Department of Statistics and Data Science at Northwestern University. My research focuses on developing a novel algorithm for the numerical approximation of integrated likelihood functions. This innovative approach aims to eliminate nuisance parameters from statistical models, providing scientific researchers with a tool to facilitate the estimation of the parameters of interest in their studies."
   },
   {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
     "title": "Timothy B. Ruel",
-    "section": "Skills",
-    "text": "Skills\n\nData science\nMachine learning\nBayesian statistics\nLikelihood analysis\nData visualization"
+    "section": "Interests",
+    "text": "Interests\n\nData science\nMachine learning\nBayesian statistics\nLikelihood analysis\nData visualization"
   },
   {
     "objectID": "index.html#education",
