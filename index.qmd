@@ -21,19 +21,17 @@ editor:
 
 ## About Me
 
-Inquisitive data scientist interested in using my statistical expertise to build models, make predictions, and solve real-world problems with data. Experienced in using R and Python for data wrangling and machine learning.
+Enthusiastic data scientist with a passion for leveraging statistical expertise to construct models, formulate predictions, and address real-world challenges through the power of data. Proficient in utilizing R and Python for data wrangling and implementing machine learning techniques.
 
-Currently I am a fifth year PhD candidate in the Department of Statistics and Data Science at Northwestern University. My research involves developing a novel algorithm for the numerical approximation of integrated likelihood functions as a means of eliminating nuisance parameters from a statistical model.
+I am currently in my fifth year as a Ph.D. candidate in the Department of Statistics and Data Science at Northwestern University. My research focuses on developing a novel algorithm for the numerical approximation of integrated likelihood functions. This innovative approach aims to eliminate nuisance parameters from statistical models, providing scientific researchers with a tool to facilitate the estimation of the parameters of interest in their studies.
 
-## Skills
+## Interests
 
 * Data science
 * Machine learning
 * Bayesian statistics
 * Likelihood analysis
 * Data visualization
-
-
 
 ## Education
 
